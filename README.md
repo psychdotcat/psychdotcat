@@ -1,3 +1,3 @@
 ## Hi there 👋 Welcome to psych.cat on GitHub!
 
-[psych.cat]([psych.cat](https://psych.cat))
+Please visit us here: [psych.cat](https://psych.cat)
